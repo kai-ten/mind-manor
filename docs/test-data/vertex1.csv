@@ -1,0 +1,9 @@
+~id, title:String, url:String, description:String, author_admins:String[], contributors:String[], published_date:Date, last_modified_date:Date, current_version:Int, latest_version:Int, ~label
+Map1,"Graph Database",,"This mind map represents the various types of graph databases that exist, how these graph databases relate, and how they differ.","Kai Herrera",,"2022-05-02T18:07:21.20","2022-05-02T18:07:21.20",1,1,map
+Section1,"High-level Descriptions",,"This section contains links to articles that describe how the graph database works.",,,,,,,section
+Section2,"Graph database - Wikipedia","https://en.wikipedia.org/wiki/Graph_database","The wiki article describes what a graph database is at a high level, the history of graph databases, and a comprehensive list of known graph database providers/technologies.",,,,,,,section
+Section3,"Neo4j - What is a graph database?","https://neo4j.com/docs/getting-started/current/graph-database/","This is Neo4j's SEO link to describe what a graph database is at a high level.",,,,,,section
+Section4,"Types of Graph Databases",,"This section branches into the various graph databases",,,,,,,section
+Section5,"Neo4j","https://neo4j.com/","Neo4j main page.",,,,,,,section
+Section6,"Neo4j - Cypher Query Language","https://neo4j.com/docs/getting-started/current/cypher-intro/","Cypher is the query language to explore nodes and relationships between nodes",,,,,,,section
+Section7,"Neo4j - Graph database vs Relational database","https://neo4j.com/docs/getting-started/current/graphdb-vs-rdbms/","Comparison of graph database management systems and relational database management systems.",,,,,,,section

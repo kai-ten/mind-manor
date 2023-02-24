@@ -1,0 +1,8 @@
+~id, ~from, ~to, ~label, weight:Double
+e1,Map1,Section1,links_to,
+e2,Map1,Section4,links_to,
+e3,Section1,Section2,links_to,
+e4,Section1,Section3,links_to,
+e5,Section4,Section5,links_to,
+e6,Section4,Section6,links_to,
+e7,Section4,Section7,links_to,

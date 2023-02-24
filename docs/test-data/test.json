@@ -1,0 +1,71 @@
+{
+    "@type": "g:Tree",
+    "@value": [
+        {
+            "key": [
+                "Graph Database"
+            ],
+            "value": {
+                "@type": "g:Tree",
+                "@value": [
+                    {
+                        "key": [
+                            "High-level Descriptions"
+                        ],
+                        "value": {
+                            "@type": "g:Tree",
+                            "@value": [
+                                {
+                                    "key": [
+                                        "Graph database - Wikipedia"
+                                    ],
+                                    "value": {
+                                        "@type": "g:Tree",
+                                        "@value": []
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "key": [
+                            "Types of Graph Databases"
+                        ],
+                        "value": {
+                            "@type": "g:Tree",
+                            "@value": [
+                                {
+                                    "key": [
+                                        "Neo4j"
+                                    ],
+                                    "value": {
+                                        "@type": "g:Tree",
+                                        "@value": []
+                                    }
+                                },
+                                {
+                                    "key": [
+                                        "Neo4j - Cypher Query Language"
+                                    ],
+                                    "value": {
+                                        "@type": "g:Tree",
+                                        "@value": []
+                                    }
+                                },
+                                {
+                                    "key": [
+                                        "Neo4j - Graph database vs Relational database"
+                                    ],
+                                    "value": {
+                                        "@type": "g:Tree",
+                                        "@value": []
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
